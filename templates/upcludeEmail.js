@@ -22,8 +22,8 @@ exports.upcludeEmailTemplate = ({
 <tr>
 <td style="background:#0f172a;padding:30px;text-align:center">
 
-<img src="${siteUrl}/logo.png"
-width="140"
+<img src="${siteUrl}/email-logo.png"
+width="130"
 style="display:block;margin:auto;margin-bottom:10px"/>
 
 <h2 style="color:#ffffff;margin:0">
