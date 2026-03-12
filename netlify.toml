@@ -1,6 +1,5 @@
-[functions]
-  directory = "netlify/functions"
-  included_files = ["templates/**"]
-
 [build]
-  publish = "public"
+functions = "netlify/functions"
+
+[functions]
+included_files = ["templates/**"]
